@@ -1,4 +1,4 @@
-17335133563174837
+17413091265892186
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -52360,13 +52360,6 @@ SOT23
 3
 3
 OPL_Connector
-AUDIO6P-SMD-3.5-14.0X6.4X5.0MM
-
-
-0
-6
-6
-OPL_Connector
 AUDIO8P-SMD-3.5-14.5X6X5MM
 
 
@@ -52570,13 +52563,6 @@ HW10-2.0
 10
 10
 OPL_Connector
-MICRO-SD9+4P-SMD-16.1X14.5X1.85MM
-
-
-0
-13
-13
-OPL_Connector
 MICRO-USB5+4P-SMD-0.65-B
 
 
@@ -52604,13 +52590,6 @@ MINIUSB5+4P-0.8-90D
 0
 9
 6
-OPL_Connector
-RJ45-12+2P-16.3X15.4X11.5MM-IN
-
-
-0
-14
-14
 OPL_Connector
 SCK28-2.54-35.6X10MM
 
@@ -52653,34 +52632,6 @@ L0805
 0
 2
 2
-OPL_Crystal_Oscillator
-X2-SMD-3.2X1.5X0.55MM
-
-
-0
-2
-2
-OPL_Crystal_Oscillator
-X2-SMD-5.0X3.2X1.3MM
-3.2MM*5MM DIMENSION
-3.2MM*5MM DIMENSION
-0
-2
-2
-OPL_Crystal_Oscillator
-X2-SMD-L2.0X1.2X0.55MM
-
-
-0
-2
-2
-OPL_Crystal_Oscillator
-X3-SMD-3.6X1.3X0.8MM
-
-
-0
-3
-3
 OPL_Discrete_Semiconductor
 DO-41
 
@@ -52780,13 +52731,6 @@ SMD-2P-L6.0XW6.0XH3.0MM
 2
 2
 OPL_Integrated_Circuit
-DFN6-0.5-1.5X1.0X0.72MM
-
-
-0
-6
-6
-OPL_Integrated_Circuit
 DFN8G-0.5-2X2MM
 
 
@@ -52800,20 +52744,6 @@ DFN8G-0.5-3X3MM
 0
 9
 9
-OPL_Integrated_Circuit
-DIP14-2.54-17.24X6.35MM
-
-
-0
-14
-14
-OPL_Integrated_Circuit
-DIP28-2.54-34.7X7.62MM
-
-
-0
-28
-28
 OPL_Integrated_Circuit
 MSOP8-0.65-3X3MM
 8M, 8-LEAD, 0.118" WIDE, MINIATURE SMALL OUTLINE PACKAGE
@@ -52856,20 +52786,6 @@ SOIC8-1.27-5X4MM
 0
 8
 8
-OPL_Integrated_Circuit
-SOIC20G-1.27-16X11MM
-
-
-0
-21
-21
-OPL_Integrated_Circuit
-SOP20-1.27-12.7X7.65MM
-
-
-0
-20
-20
 OPL_Integrated_Circuit
 SOT-23
 SOT23
@@ -52920,27 +52836,6 @@ SSOP16-0.635-5X4MM
 16
 16
 OPL_Integrated_Circuit
-SSOP20-0.65-7.6X5.2MM
-SHRINK SMALL OUTLINE PACKAGE
-SHRINK SMALL OUTLINE PACKAGE
-0
-20
-20
-OPL_Integrated_Circuit
-SSOP24-0.65-8.9X5.3MM
-
-
-0
-24
-24
-OPL_Integrated_Circuit
-SSOP28-0.65-10.2X5.2MM
-SHRINK SMALL OUTLINE PACKAGE SSOP-28
-SHRINK SMALL OUTLINE PACKAGE SSOP-28
-0
-28
-28
-OPL_Integrated_Circuit
 TO-92
 
 
@@ -52969,54 +52864,12 @@ THIN PLASIC QUAD FLAT PACKAGE GRID 0.8 MM
 32
 32
 OPL_Integrated_Circuit
-TQFP44-0.8-9.6X9.6MM
-THIN PLASIC QUAD FLAT PACKAGE
-THIN PLASIC QUAD FLAT PACKAGE
-0
-44
-44
-OPL_Integrated_Circuit
 TQFP100-0.5-14X14MM
 100-LEAD THIN QUAD FLAT PACK PACKAGE OUTLINE
 100-LEAD THIN QUAD FLAT PACK PACKAGE OUTLINE
 0
 100
 100
-OPL_Integrated_Circuit
-TSSOP14-0.65-5X4.4MM
-
-
-0
-14
-14
-OPL_Integrated_Circuit
-TSSOP20-0.65-6.5X4.4MM
-
-
-0
-20
-20
-OPL_Integrated_Circuit
-TSSOP24-0.65-7.8X4.4MM
-
-
-0
-24
-24
-OPL_Optoelectronics
-LCD12-2.54-30.0X14.0X7.3MM
-
-
-0
-12
-12
-OPL_Optoelectronics
-LED-10X2P-2.54-25.5X10.1X8.4MM
-
-
-0
-20
-20
 OPL_Optoelectronics
 LED-0402
 
@@ -53193,47 +53046,12 @@ SNR2-3.0
 2
 2
 OPL_Sensor-Transducer
-SNR2-5.1-25.0X13.0X1.0MM
-
-
-0
-2
-2
-OPL_Sensor-Transducer
 SNR3-D8.1XH4.2MM
 
 
 0
 3
 3
-OPL_Sensor-Transducer
-SNR4-2.54-8.7X4.5X5.8MM
-
-
-0
-4
-4
-OPL_Sensor-Transducer
-SNR4-2.54-15.5X12.0X5.5MM
-
-
-0
-4
-4
-OPL_Sensor-Transducer
-SNR4-2.54-25.0X15.0X7.0MM
-
-
-0
-4
-4
-OPL_Sensor-Transducer
-SOP16-1.27-10.0X5.0MM
-
-
-0
-16
-16
 OPL_Sensor-Transducer
 TO-92-3
 
@@ -76341,6 +76159,433 @@ varistor SIOV
 0
 2
 2
+myfootprint
+7SEGMENT-LED__GS2011CP_SMD
+7-Segment Display, HDSM53x, https://docs.broadcom.com/docs/AV02-0713EN
+7segment LED HDSM531 HDSM533
+0
+10
+10
+myfootprint
+AdjustHole
+
+
+0
+0
+0
+myfootprint
+AudioJack3.5mm_PJ_3240_5A_KoreanHropartsElec
+
+
+0
+5
+5
+myfootprint
+BUZZER_13_5.08
+
+
+0
+2
+2
+myfootprint
+BarrelJack_4UCON_20V4A
+Wuerth electronics barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf
+connector barrel jack
+0
+3
+3
+myfootprint
+BarrelJack_HRO_24V3A
+Wuerth electronics barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf
+connector barrel jack
+0
+3
+3
+myfootprint
+BatteryHolder_Akizuki_3xAA
+3xAAA cell battery holder, Keystone P/N 2479, http://www.keyelco.com/product-pdf.cfm?p=1041
+AAA battery cell holder
+0
+2
+2
+myfootprint
+BatteryHolder_Akizuki_3xAA_nonHole
+3xAAA cell battery holder, Keystone P/N 2479, http://www.keyelco.com/product-pdf.cfm?p=1041
+AAA battery cell holder
+0
+2
+2
+myfootprint
+CR2032Case3
+
+
+0
+0
+0
+myfootprint
+CR2032_Case
+
+
+0
+2
+2
+myfootprint
+CR2032_Case2
+
+
+0
+3
+2
+myfootprint
+CR2032_Case3
+
+
+0
+2
+2
+myfootprint
+CR2032_Case4
+
+
+0
+3
+2
+myfootprint
+F_1812
+Resistor SMD 1812, flow soldering, Panasonic (see ERJ12)
+resistor 1812
+0
+2
+2
+myfootprint
+Fuse_SMD1210_MF-USMF_Reflow
+Fuse, Sicherung, SMD1206, Littlefuse-Wickmann, Reflow,
+Fuse Sicherung SMD1206 Littlefuse-Wickmann Reflow 
+0
+2
+2
+myfootprint
+Fuseholder5x20_horiz_akizuki
+Fuseholder, 5x20, open, horizontal, Type-I, Inline,
+Fuseholder 5x20 open horizontal Type-I Inline Sicherungshalter offen 
+0
+4
+2
+myfootprint
+GNDVIA
+
+
+0
+1
+1
+myfootprint
+JAE_CODED_ROTARY_SW_DIP
+4-bit rotary coded switch, through-hole, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
+rotary switch bcd
+0
+5
+5
+myfootprint
+Jack_3.5mm_PJ320B_Horizontal
+Headphones with microphone connector, 3.5mm, 4 pins (http://www.qingpu-electronics.com/en/products/WQP-PJ320D-72.html)
+3.5mm jack mic microphone phones headphones 4pins audio plug
+0
+3
+3
+myfootprint
+JapanMap2
+
+
+0
+0
+0
+myfootprint
+JapanMap22
+
+
+0
+0
+0
+myfootprint
+Jing-Extension_MICRO_USB_5S_B_Type_horns_C10418
+
+
+0
+11
+5
+myfootprint
+Jing-Extension_USB_A_F90_C42439
+
+
+0
+6
+4
+myfootprint
+Korean Hroparts Elec K2-6639SP-C4SC-04
+C&K Components SPST SMD PTS645 Series 6mm Tact Switch
+SPST Button Switch
+0
+4
+2
+myfootprint
+Mechanical_Hole_0.3mm
+
+
+0
+0
+0
+myfootprint
+MicroSwitch-SK12D07VG4
+
+
+0
+5
+3
+myfootprint
+MicroSwitch-Side
+
+
+0
+7
+3
+myfootprint
+MountingHole_2mm_M2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+myfootprint
+NECOBIT_LOGO
+
+
+0
+0
+0
+myfootprint
+NECOBIT_LOGO_G
+
+
+0
+0
+0
+myfootprint
+NECOBIT_PCT
+
+
+0
+0
+0
+myfootprint
+Nidec_Copal_SA-7010B
+4-bit rotary coded switch, gull wing, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
+rotary switch bcd
+0
+6
+5
+myfootprint
+Optocoupler_SMD_TLP2368
+Optocoupler, SMD,  Single Channel, Hand Soldering, like KPC357, LTV35x, PC357
+Optocoupler Single Channel KPC357 LTV35x PC357
+0
+5
+5
+myfootprint
+PUSH_Switch_Akizuki
+
+
+0
+4
+2
+myfootprint
+PUSH_Switch_China
+
+
+0
+4
+2
+myfootprint
+PinHeader_2x03_P2.54mm_Vertical_CounterClockwise
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
+myfootprint
+Pin_Header_Angled_1x05_Pitch2.54mm_edge2mm
+Through hole angled pin header, 1x05, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x05 2.54mm single row
+0
+5
+5
+myfootprint
+Pin_Header_Straight_2x15_Pitch2.54mm_SMD_M5Stack
+surface-mounted straight pin header, 2x15, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x15 2.54mm double row
+0
+60
+30
+myfootprint
+Potentiometer_Trimmer_Bourns_3362P
+Spindle Trimmer Potentiometer, Bourns 3266P, https://www.bourns.com/pdfs/3266.pdf
+Spindle Trimmer Potentiometer   Bourns 3266P
+0
+3
+3
+myfootprint
+ProMicro
+
+
+0
+24
+24
+myfootprint
+R_0603_Custom
+Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0603
+0
+2
+2
+myfootprint
+SOD123(1N4148W)
+
+
+0
+2
+2
+myfootprint
+SOT-223-4-2
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+3
+myfootprint
+SW_REED
+Coto Technologies SPST Reed Switch CT10-XXXX-G1
+Coto Reed SPST Switch
+0
+2
+2
+myfootprint
+SW_REED2286
+Coto Technologies SPST Reed Switch CT10-XXXX-G1
+Coto Reed SPST Switch
+0
+2
+2
+myfootprint
+Slide_Switch_SMD
+
+
+0
+6
+3
+myfootprint
+Socket_Strip_Angled_1x03_Pitch2.54mm_edge2mm
+Through hole angled socket strip, 1x03, 2.54mm pitch, 8.51mm socket length, single row
+Through hole angled socket strip THT 1x03 2.54mm single row
+0
+3
+3
+myfootprint
+Socket_Strip_Angled_1x05_Pitch2.54mm_edge2mm
+Through hole angled socket strip, 1x05, 2.54mm pitch, 8.51mm socket length, single row
+Through hole angled socket strip THT 1x05 2.54mm single row
+0
+5
+5
+myfootprint
+StencilHolderHole
+
+
+0
+0
+0
+myfootprint
+TSR-3386T-EY5-102TR
+http://akizukidenshi.com/download/ds/suntan/tsr-3386.pdf
+TSR-3386T-EY5-102TR SUNTAN TECHNOLOGY CO LTD
+0
+3
+3
+myfootprint
+TerminalBlock_5.08mm-3pol-rev
+2-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+3
+3
+myfootprint
+TerminalBlock_5mm-2pol-rev
+2-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+2
+2
+myfootprint
+TerminalBlock_5mm-3pol-rev
+2-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+3
+3
+myfootprint
+USB-TYPE-C-31-M-17-KoreanHropartsElec
+
+
+0
+10
+6
+myfootprint
+WJ126V-5.0-3P
+2-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+3
+3
+myfootprint
+WS2812C-2020
+
+
+0
+4
+4
+myfootprint
+WS2812C-2020addHole
+
+
+0
+4
+4
+myfootprint
+din-5_s
+Din 5 (MIDI), Pro Signal P/N PSG03463
+
+0
+7
+5
+myfootprint
+npth1mm
+
+
+0
+0
+0
+myfootprint
+via
+
+
+0
+1
+1
+myfootprint
+via1
+
+
+0
+1
+0
 open-automation
 2.4GHZ-ANT-AMCA72-2R470G-S1F-T
 
@@ -77006,3 +77251,101 @@ touch-pad
 0
 1
 1
+w_conn_av
+SCART
+SCART socket, Tyco P/N 1483465-1
+
+0
+21
+21
+w_conn_av
+TerminalBlock_5mm-2pol-rev
+2-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+2
+2
+w_conn_av
+din-5
+Din 5 (MIDI), Pro Signal P/N PSG03463
+
+0
+5
+5
+w_conn_av
+din-5_s
+Din 5 (MIDI), Pro Signal P/N PSG03463
+
+0
+5
+5
+w_conn_av
+jack_3.5_pj313d-smt
+3.5mm jack, HK RTL PJ313D
+
+0
+6
+3
+w_conn_av
+jack_3.5_sj1-3513-smt
+3.5mm jack, CUI SJ1-3513-SMT
+
+0
+3
+3
+w_conn_av
+jack_3.5_sj1-3514-smt
+3.5mm jack, CUI SJ1-3514-SMT
+
+0
+4
+4
+w_conn_av
+jack_3.5_sj1-3515-smt
+3.5mm jack, CUI SJ1-3515-SMT
+
+0
+5
+5
+w_conn_av
+jack_3.5_vert_lje0352-4r
+Vertical 3.5mm jack, Lih Sheng LJE0352-4R
+
+0
+4
+4
+w_conn_av
+minidin-8
+MiniDin 8 (S-Video), Tyco P/N 1734096-1
+
+0
+11
+11
+w_conn_av
+rca_black
+RCA Audio connector, black, Pro Signal p/n PSG01544
+rca, audio
+0
+3
+2
+w_conn_av
+rca_red
+RCA Audio connector, red, Pro Signal p/n PSG01545
+rca, audio
+0
+3
+2
+w_conn_av
+rca_white
+RCA Audio connector, white, Pro Signal p/n PSG01546
+rca, audio
+0
+3
+2
+w_conn_av
+rca_yellow
+RCA Audio connector, yellow, Pro Signal p/n PSG01547
+rca, audio
+0
+3
+2

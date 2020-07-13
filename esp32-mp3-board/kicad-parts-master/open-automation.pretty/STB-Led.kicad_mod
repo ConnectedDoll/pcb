@@ -1,0 +1,8 @@
+(module STB-Led (layer F.Cu) (tedit 570BFE68)
+  (fp_text reference REF** (at 5 2.75) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value STB0FS12A (at -4.95 -3.65) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)

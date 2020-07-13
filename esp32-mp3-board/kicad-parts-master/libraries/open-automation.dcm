@@ -1,0 +1,354 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100K
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP 18650_Battery_Cell_1043
+D single battery cell
+K battery cell
+$ENDCMP
+#
+$CMP A1101ELHL
+D Hall effect switch, unipolar, Bop=100G, Brp=45G, -40C to +85C
+K hall switch
+F http://www.allegromicro.com/en/Products/Part_Numbers/1101/1101.pdf
+$ENDCMP
+#
+$CMP A1101LLHL
+D Hall effect switch, unipolar, Bop=100G, Brp=45G, -40C to +125C
+K hall switch
+F http://www.allegromicro.com/en/Products/Part_Numbers/1101/1101.pdf
+$ENDCMP
+#
+$CMP A1102ELHL
+D Hall effect switch, unipolar, Bop=180G, Brp=125G, -40C to +85C
+K hall switch
+F http://www.allegromicro.com/en/Products/Part_Numbers/1101/1101.pdf
+$ENDCMP
+#
+$CMP A1102LLHL
+D Hall effect switch, unipolar, Bop=180G, Brp=125G, -40C to +125C
+K hall switch
+F http://www.allegromicro.com/en/Products/Part_Numbers/1101/1101.pdf
+$ENDCMP
+#
+$CMP A1103ELHL
+D Hall effect switch, unipolar, Bop=280G, Brp=225G, -40C to +85C
+K hall switch
+F http://www.allegromicro.com/en/Products/Part_Numbers/1101/1101.pdf
+$ENDCMP
+#
+$CMP A1103LLHL
+D Hall effect switch, unipolar, Bop=280G, Brp=225G, -40C to +125C
+K hall switch
+F http://www.allegromicro.com/en/Products/Part_Numbers/1101/1101.pdf
+$ENDCMP
+#
+$CMP A1104LLHL
+D Hall effect switch, unipolar, Bop=240G, Brp=200G, -40C to +125C
+K hall switch
+F http://www.allegromicro.com/en/Products/Part_Numbers/1101/1101.pdf
+$ENDCMP
+#
+$CMP A1106LLHL
+D Hall effect switch, unipolar, Bop=340G, Brp=240G, -40C to +125C
+K hall switch
+F http://www.allegromicro.com/en/Products/Part_Numbers/1101/1101.pdf
+$ENDCMP
+#
+$CMP BQ24259
+D 1kB + 128B Flash, 128B RAM, QFN-24
+K TI MSP430 16-bit mixed signal microcontroller
+F http://www.ti.com/lit/ds/symlink/msp430f1101a.pdf
+$ENDCMP
+#
+$CMP C_0.1uF
+D 0.1uF 50V 0603 Capacitor
+$ENDCMP
+#
+$CMP C_100p
+D 10uF 10V 0603 Capacitor
+$ENDCMP
+#
+$CMP C_100pF
+D 100pF 50V 0603 Capacitor
+$ENDCMP
+#
+$CMP C_100uF
+D CAP CER 100UF 10V X5R 1206
+K CAP CER 100UF 10V X5R 1206
+F https://www.digikey.com/product-detail/en/tdk-corporation/C3216X5R1A107M160AC/445-6007-1-ND/2444048
+$ENDCMP
+#
+$CMP C_10uF
+D 10uF 10V 0603 Capacitor
+$ENDCMP
+#
+$CMP C_150pF
+D 150pF 50V 0603 Capacitor
+$ENDCMP
+#
+$CMP C_1uF
+D 1uF 0603 Capacitor
+$ENDCMP
+#
+$CMP C_2.2uF
+D 330pF 50V 0603 Capacitor
+$ENDCMP
+#
+$CMP C_33uF
+D 33uF 16V 0805 Capacitor
+$ENDCMP
+#
+$CMP C_390uf
+D 330pF 50V 0603 Capacitor
+$ENDCMP
+#
+$CMP C_4.7uF
+D 0.1uF 50V 0603 Capacitor
+$ENDCMP
+#
+$CMP C_47nF
+D 0.1uF 50V 0603 Capacitor
+$ENDCMP
+#
+$CMP C_47uF
+D 1uF 0603 Capacitor
+$ENDCMP
+#
+$CMP C_8.2uF
+D 1uF 0603 Capacitor
+$ENDCMP
+#
+$CMP D
+D Diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP H11AA1
+D Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 40-125, UL, cUL, BSI, THT PDIP-4
+K Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 40-125
+F http://www.vishay.com/docs/83675/sfh620a.pdf
+$ENDCMP
+#
+$CMP IRA-S210ST01
+D PIR Motion Sensor
+$ENDCMP
+#
+$CMP LED-GREEN-LTST-C191GKT
+D LED generic
+K led diode
+$ENDCMP
+#
+$CMP MSP430F1111AIRGE_0
+D 2kB + 256B Flash, 128B RAM, QFN-24
+K TI MSP430 16-bit mixed signal microcontroller
+F http://www.ti.com/lit/ds/symlink/msp430f1111a.pdf
+$ENDCMP
+#
+$CMP MSP430F1121AIRGE_0
+D 4kB + 256B Flash, 256B RAM, QFN-24
+K TI MSP430 16-bit mixed signal microcontroller
+F http://www.ti.com/lit/ds/symlink/msp430f1121a.pdf
+$ENDCMP
+#
+$CMP OPA340DBV
+D IC OPAMP GP 70KHZ RRO SC70-5
+K CMOS Ampliop
+F https://www.digikey.com/product-detail/en/texas-instruments/OPA349SA-3K/296-14451-1-ND/552030
+$ENDCMP
+#
+$CMP OPT3001
+D Ambient Light Sensor
+$ENDCMP
+#
+$CMP PMOS-DMG3413L
+D -20V Vds, -3A Id, P-Channel MOSFET, SOT-23-3
+K P-Channel MOSFET
+F https://www.digikey.com/product-detail/en/diodes-incorporated/DMG3413L-7/DMG3413L-7DICT-ND/5218387
+$ENDCMP
+#
+$CMP Q_NMOS_GSD_2n7002L
+D Transistor N-MOSFETwith substrate diode (general)
+K NMOS n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP Q_NMOS_GSD_PSMN038-100YLX
+D N-Channel 100V 30A (Tc) 94.9W (Tc) Surface Mount LFPAK56, Power-SO8
+K NMOS n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP Q_PMOS_GSD_BSS84
+D Transistor P-MOSFET with substrate diode (general)
+K pmos p-mos p-mosfet transistor
+$ENDCMP
+#
+$CMP R
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP R_1.3K
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP R_100k
+D 100k 0603 Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP R_10M
+D 10M 0603 Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP R_10k
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP R_12k
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP R_150
+D 150k 0603 Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP R_150k
+D 150k 0603 Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP R_15M
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP R_1M3
+D 1.3M 0603 Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP R_1k
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP R_2.2
+D RES SMD 10 OHM 0.1% 1/16W 0603
+K r res resistor
+$ENDCMP
+#
+$CMP R_2.2K
+D RES SMD 10 OHM 0.1% 1/16W 0603
+K r res resistor
+$ENDCMP
+#
+$CMP R_20k
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP R_2k
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP R_40k2
+D 40.2k 0603 Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP R_47.5
+D RES SMD 47.5 OHM 1% 1/10W 0603
+K r res resistor
+F https://www.digikey.com/product-detail/en/yageo/RC0603FR-0747R5L/311-47.5HRCT-ND/730201
+$ENDCMP
+#
+$CMP R_47.5k
+D RES SMD 47.5 OHM 1% 1/10W 0603
+K r res resistor
+F https://www.digikey.com/product-detail/en/yageo/RC0603FR-0747R5L/311-47.5HRCT-ND/730201
+$ENDCMP
+#
+$CMP R_470
+D RES SMD 10 OHM 0.1% 1/16W 0603
+K r res resistor
+$ENDCMP
+#
+$CMP R_7k15
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP R_8k87
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP SFH620A-1X001
+D Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 40-125 VDE, UL, CUL, BSI, THT PDIP-4
+K Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 40-125
+F http://www.vishay.com/docs/83675/sfh620a.pdf
+$ENDCMP
+#
+$CMP SFH620A-2
+D Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 63-200 UL, cUL, BSI, THT PDIP-4
+K Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 63-200
+F http://www.vishay.com/docs/83675/sfh620a.pdf
+$ENDCMP
+#
+$CMP SFH620A-2X001
+D Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 63-200 VDE, UL, CUL, BSI, THT PDIP-4
+K Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 63-200
+F http://www.vishay.com/docs/83675/sfh620a.pdf
+$ENDCMP
+#
+$CMP SFH620A-3
+D Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 100-320 UL, cUL, BSI, THT PDIP-4
+K Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 100-320
+F http://www.vishay.com/docs/83675/sfh620a.pdf
+$ENDCMP
+#
+$CMP SFH620A-3X001
+D Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 100-320 VDE, UL, CUL, BSI, THT PDIP-4
+K Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 100-320
+F http://www.vishay.com/docs/83675/sfh620a.pdf
+$ENDCMP
+#
+$CMP TLV3691IDCKR
+D IC COMPARATOR NANO-POWER SC70-5
+K IC COMPARATOR NANO-POWER SC70-5
+F https://www.digikey.com/product-detail/en/texas-instruments/TLV3691IDCKR/296-37910-1-ND/4900957
+$ENDCMP
+#
+$CMP TLV369IDCKT
+D IC OP AMP GP RR 12KHZ SC70-5
+F https://www.digikey.com/product-detail/en/texas-instruments/TLV369IDCKT/296-44550-1-ND/6128458
+$ENDCMP
+#
+$CMP USB_A_2
+D USB Type A connector
+K connector USB USB_A
+$ENDCMP
+#
+$CMP USB_B
+D USB Type B connector
+K connector USB
+F  ~
+$ENDCMP
+#
+$CMP USB_IC-CP2104
+D Single-Chip USB-to-UART Bridge, USB 2.0 Full-Speed, 2Mbps UART, QFN package
+K uart usb bridge interface transceiver
+F https://www.silabs.com/Support%20Documents/TechnicalDocs/cp2104.pdf
+$ENDCMP
+#
+#End Doc Library

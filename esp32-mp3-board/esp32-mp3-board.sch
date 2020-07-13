@@ -80,7 +80,7 @@ F 3 "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_
 	1    0    0    -1  
 $EndComp
 $Comp
-L open-automation:MAX98357AETE+T U3
+L esp32-mp3-board-rescue:MAX98357AETE+T-open-automation U3
 U 1 1 5EB58F98
 P 3250 2650
 F 0 "U3" H 3250 3100 60  0000 C CNN
@@ -407,7 +407,7 @@ F 3 "~" H 5000 1450 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L OPL_Discrete_Semiconductor:SMD-TRANSISTORS-NPN-25V-500MA-S9013_SOT-23_ Q1
+L esp32-mp3-board-rescue:SMD-TRANSISTORS-NPN-25V-500MA-S9013_SOT-23_-OPL_Discrete_Semiconductor Q1
 U 1 1 5EB9E4A7
 P 5250 950
 F 0 "Q1" H 5394 992 45  0000 L CNN
@@ -420,7 +420,7 @@ F 5 "305010018" H 5280 1100 20  0001 C CNN "SKU"
 	1    0    0    -1  
 $EndComp
 $Comp
-L OPL_Discrete_Semiconductor:SMD-TRANSISTORS-NPN-25V-500MA-S9013_SOT-23_ Q2
+L esp32-mp3-board-rescue:SMD-TRANSISTORS-NPN-25V-500MA-S9013_SOT-23_-OPL_Discrete_Semiconductor Q2
 U 1 1 5EB9E721
 P 5250 1450
 F 0 "Q2" H 5394 1408 45  0000 L CNN
@@ -491,7 +491,7 @@ U 1 1 5EBABED6
 P 5900 1300
 F 0 "D2" V 5946 1232 50  0000 R CNN
 F 1 "LED" V 5855 1232 50  0000 R CNN
-F 2 "LED_SMD:LED_0201_0603Metric" V 5900 1300 50  0001 C CNN
+F 2 "LED_SMD:LED_0603_1608Metric" V 5900 1300 50  0001 C CNN
 F 3 "~" V 5900 1300 50  0001 C CNN
 	1    5900 1300
 	0    -1   -1   0   
@@ -832,7 +832,7 @@ Wire Wire Line
 Wire Wire Line
 	3800 2800 3850 2800
 $Comp
-L OPL_Filters_and_Magnetic_Beads:SMD-FERRITE-CHIP-120-OHM-500MA_0603_ L1
+L esp32-mp3-board-rescue:SMD-FERRITE-CHIP-120-OHM-500MA_0603_-OPL_Filters_and_Magnetic_Beads L1
 U 1 1 5EC28B26
 P 4150 2500
 F 0 "L1" H 4150 2679 45  0000 C CNN
@@ -845,7 +845,7 @@ F 5 "303030001" H 4180 2650 20  0001 C CNN "SKU"
 	1    0    0    -1  
 $EndComp
 $Comp
-L OPL_Filters_and_Magnetic_Beads:SMD-FERRITE-CHIP-120-OHM-500MA_0603_ L2
+L esp32-mp3-board-rescue:SMD-FERRITE-CHIP-120-OHM-500MA_0603_-OPL_Filters_and_Magnetic_Beads L2
 U 1 1 5EC2B1B8
 P 4150 2600
 F 0 "L2" H 4150 2779 45  0000 C CNN
@@ -1157,7 +1157,7 @@ Wire Wire Line
 Wire Notes Line
 	1650 1900 1650 500 
 $Comp
-L open-automation:SW_PUSH SW1
+L esp32-mp3-board-rescue:SW_PUSH-open-automation SW1
 U 1 1 5EE5400E
 P 3950 1300
 F 0 "SW1" V 3950 1246 50  0000 R CNN
@@ -1176,7 +1176,7 @@ U 1 1 5EE7E925
 P 1950 1000
 F 0 "D1" H 1950 795 50  0000 C CNN
 F 1 "D_Schottky" H 1950 886 50  0000 C CNN
-F 2 "OPL_Discrete_Semiconductor:SOD-123" V 1950 1000 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" V 1950 1000 50  0001 C CNN
 F 3 "~" V 1950 1000 50  0001 C CNN
 	1    1950 1000
 	-1   0    0    1   
@@ -1267,7 +1267,7 @@ VDD
 Text Label 9250 900  1    50   ~ 0
 VDD
 $Comp
-L OPL_Discrete_Semiconductor:SMD-DIODE-SWITCH-1N4148_LL-34_ D5
+L esp32-mp3-board-rescue:SMD-DIODE-SWITCH-1N4148_LL-34_-OPL_Discrete_Semiconductor D5
 U 1 1 5EBC2D6D
 P 8600 900
 F 0 "D5" H 8600 1154 45  0000 C CNN

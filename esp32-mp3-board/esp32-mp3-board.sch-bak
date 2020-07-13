@@ -80,7 +80,7 @@ F 3 "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_
 	1    0    0    -1  
 $EndComp
 $Comp
-L open-automation:MAX98357AETE+T U3
+L esp32-mp3-board-rescue:MAX98357AETE+T-open-automation U3
 U 1 1 5EB58F98
 P 3250 2650
 F 0 "U3" H 3250 3100 60  0000 C CNN
@@ -407,7 +407,7 @@ F 3 "~" H 5000 1450 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L OPL_Discrete_Semiconductor:SMD-TRANSISTORS-NPN-25V-500MA-S9013_SOT-23_ Q1
+L esp32-mp3-board-rescue:SMD-TRANSISTORS-NPN-25V-500MA-S9013_SOT-23_-OPL_Discrete_Semiconductor Q1
 U 1 1 5EB9E4A7
 P 5250 950
 F 0 "Q1" H 5394 992 45  0000 L CNN
@@ -420,7 +420,7 @@ F 5 "305010018" H 5280 1100 20  0001 C CNN "SKU"
 	1    0    0    -1  
 $EndComp
 $Comp
-L OPL_Discrete_Semiconductor:SMD-TRANSISTORS-NPN-25V-500MA-S9013_SOT-23_ Q2
+L esp32-mp3-board-rescue:SMD-TRANSISTORS-NPN-25V-500MA-S9013_SOT-23_-OPL_Discrete_Semiconductor Q2
 U 1 1 5EB9E721
 P 5250 1450
 F 0 "Q2" H 5394 1408 45  0000 L CNN
@@ -491,7 +491,7 @@ U 1 1 5EBABED6
 P 5900 1300
 F 0 "D2" V 5946 1232 50  0000 R CNN
 F 1 "LED" V 5855 1232 50  0000 R CNN
-F 2 "LED_SMD:LED_0201_0603Metric" V 5900 1300 50  0001 C CNN
+F 2 "LED_SMD:LED_0603_1608Metric" V 5900 1300 50  0001 C CNN
 F 3 "~" V 5900 1300 50  0001 C CNN
 	1    5900 1300
 	0    -1   -1   0   
@@ -832,7 +832,7 @@ Wire Wire Line
 Wire Wire Line
 	3800 2800 3850 2800
 $Comp
-L OPL_Filters_and_Magnetic_Beads:SMD-FERRITE-CHIP-120-OHM-500MA_0603_ L1
+L esp32-mp3-board-rescue:SMD-FERRITE-CHIP-120-OHM-500MA_0603_-OPL_Filters_and_Magnetic_Beads L1
 U 1 1 5EC28B26
 P 4150 2500
 F 0 "L1" H 4150 2679 45  0000 C CNN
@@ -845,7 +845,7 @@ F 5 "303030001" H 4180 2650 20  0001 C CNN "SKU"
 	1    0    0    -1  
 $EndComp
 $Comp
-L OPL_Filters_and_Magnetic_Beads:SMD-FERRITE-CHIP-120-OHM-500MA_0603_ L2
+L esp32-mp3-board-rescue:SMD-FERRITE-CHIP-120-OHM-500MA_0603_-OPL_Filters_and_Magnetic_Beads L2
 U 1 1 5EC2B1B8
 P 4150 2600
 F 0 "L2" H 4150 2779 45  0000 C CNN
@@ -964,42 +964,42 @@ NoConn ~ 5800 4400
 $Comp
 L LED:WS2812S D3
 U 1 1 5EC85112
-P 9150 1250
-F 0 "D3" H 9494 1296 50  0000 L CNN
-F 1 "WS2812S" H 9494 1205 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm" H 9200 950 50  0001 L TNN
-F 3 "http://www.world-semi.com/DownLoadFile/115" H 9250 875 50  0001 L TNN
-	1    9150 1250
+P 9350 1250
+F 0 "D3" H 9694 1296 50  0000 L CNN
+F 1 "WS2812S" H 9694 1205 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm" H 9400 950 50  0001 L TNN
+F 3 "http://www.world-semi.com/DownLoadFile/115" H 9450 875 50  0001 L TNN
+	1    9350 1250
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R_Small R7
 U 1 1 5EC86C0E
-P 8700 1250
-F 0 "R7" V 8504 1250 50  0000 C CNN
-F 1 "100" V 8595 1250 50  0000 C CNN
-F 2 "OPL_Resistor:R0603" H 8700 1250 50  0001 C CNN
-F 3 "~" H 8700 1250 50  0001 C CNN
-	1    8700 1250
+P 8900 1250
+F 0 "R7" V 8704 1250 50  0000 C CNN
+F 1 "100" V 8795 1250 50  0000 C CNN
+F 2 "OPL_Resistor:R0603" H 8900 1250 50  0001 C CNN
+F 3 "~" H 8900 1250 50  0001 C CNN
+	1    8900 1250
 	0    1    1    0   
 $EndComp
-Text Label 8500 1250 0    50   ~ 0
+Text Label 8700 1250 0    50   ~ 0
 IO4
 $Comp
 L power:GND #PWR029
 U 1 1 5EC9218B
-P 9150 1650
-F 0 "#PWR029" H 9150 1400 50  0001 C CNN
-F 1 "GND" H 9155 1477 50  0000 C CNN
-F 2 "" H 9150 1650 50  0001 C CNN
-F 3 "" H 9150 1650 50  0001 C CNN
-	1    9150 1650
+P 9350 1650
+F 0 "#PWR029" H 9350 1400 50  0001 C CNN
+F 1 "GND" H 9355 1477 50  0000 C CNN
+F 2 "" H 9350 1650 50  0001 C CNN
+F 3 "" H 9350 1650 50  0001 C CNN
+	1    9350 1650
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	8800 1250 8850 1250
+	9000 1250 9050 1250
 Wire Wire Line
-	8500 1250 8600 1250
+	8700 1250 8800 1250
 Text Label 7100 3100 0    50   ~ 0
 IO4
 Wire Wire Line
@@ -1018,19 +1018,6 @@ F 3 "http://www.world-semi.com/DownLoadFile/115" H 10200 875 50  0001 L TNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R8
-U 1 1 5ECC4561
-P 9650 1250
-F 0 "R8" V 9454 1250 50  0000 C CNN
-F 1 "100" V 9545 1250 50  0000 C CNN
-F 2 "OPL_Resistor:R0603" H 9650 1250 50  0001 C CNN
-F 3 "~" H 9650 1250 50  0001 C CNN
-	1    9650 1250
-	0    1    1    0   
-$EndComp
-Text Label 9450 1250 0    50   ~ 0
-IO4
-$Comp
 L power:GND #PWR031
 U 1 1 5ECC4576
 P 10100 1650
@@ -1041,10 +1028,6 @@ F 3 "" H 10100 1650 50  0001 C CNN
 	1    10100 1650
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	9750 1250 9800 1250
-Wire Wire Line
-	9450 1250 9550 1250
 NoConn ~ 10400 1250
 Wire Notes Line
 	10450 1900 10450 500 
@@ -1174,7 +1157,7 @@ Wire Wire Line
 Wire Notes Line
 	1650 1900 1650 500 
 $Comp
-L open-automation:SW_PUSH SW1
+L esp32-mp3-board-rescue:SW_PUSH-open-automation SW1
 U 1 1 5EE5400E
 P 3950 1300
 F 0 "SW1" V 3950 1246 50  0000 R CNN
@@ -1231,12 +1214,12 @@ Wire Wire Line
 $Comp
 L power:+3V3 #PWR0103
 U 1 1 5EF0818A
-P 9150 900
-F 0 "#PWR0103" H 9150 750 50  0001 C CNN
-F 1 "+3V3" H 9165 1073 50  0000 C CNN
-F 2 "" H 9150 900 50  0001 C CNN
-F 3 "" H 9150 900 50  0001 C CNN
-	1    9150 900 
+P 9350 900
+F 0 "#PWR0103" H 9350 750 50  0001 C CNN
+F 1 "+3V3" H 9365 1073 50  0000 C CNN
+F 2 "" H 9350 900 50  0001 C CNN
+F 3 "" H 9350 900 50  0001 C CNN
+	1    9350 900 
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1281,10 +1264,10 @@ Text Label 8300 900  0    50   ~ 0
 VBUS
 Text Label 10000 900  1    50   ~ 0
 VDD
-Text Label 9050 900  1    50   ~ 0
+Text Label 9250 900  1    50   ~ 0
 VDD
 $Comp
-L OPL_Discrete_Semiconductor:SMD-DIODE-SWITCH-1N4148_LL-34_ D5
+L esp32-mp3-board-rescue:SMD-DIODE-SWITCH-1N4148_LL-34_-OPL_Discrete_Semiconductor D5
 U 1 1 5EBC2D6D
 P 8600 900
 F 0 "D5" H 8600 1154 45  0000 C CNN
@@ -1303,15 +1286,15 @@ Wire Wire Line
 Wire Wire Line
 	10000 900  10000 950 
 Wire Wire Line
-	9150 900  9150 950 
+	9350 900  9350 950 
 Wire Wire Line
-	9050 900  9050 950 
+	9250 900  9250 950 
 Wire Wire Line
 	8750 900  8800 900 
 Wire Wire Line
 	8300 900  8450 900 
 Wire Wire Line
-	9150 1550 9150 1650
+	9350 1550 9350 1650
 Wire Wire Line
 	10100 1550 10100 1650
 $Comp
@@ -1376,4 +1359,6 @@ $EndComp
 Wire Wire Line
 	1950 2650 1950 2750
 Connection ~ 1950 2650
+Wire Wire Line
+	9650 1250 9800 1250
 $EndSCHEMATC

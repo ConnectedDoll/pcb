@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX98089_0
+D Microphone Amplifier with AGC and Low-Noise Microphone Bias, TDFN-14
+K audio microphone amplifier
+F https://datasheets.maximintegrated.com/en/ds/MAX9814.pdf
+$ENDCMP
+#
+#End Doc Library
