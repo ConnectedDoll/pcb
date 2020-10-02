@@ -459,7 +459,7 @@ Connection ~ 4900 1450
 Text Label 5450 750  0    50   ~ 0
 IO0
 Text Label 5500 1650 0    50   ~ 0
-RESET
+EN
 Wire Wire Line
 	5350 750  5450 750 
 Wire Wire Line
@@ -938,7 +938,7 @@ IO13
 Wire Wire Line
 	7000 3400 7100 3400
 Text Label 5550 2700 0    50   ~ 0
-RESET
+EN
 Wire Wire Line
 	5800 2700 5550 2700
 NoConn ~ 5800 2900
